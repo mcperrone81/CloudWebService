@@ -31,6 +31,7 @@ public class TestController
 		articoli.add(new Articoli("007686402","FINDUS FIOR DI NASELLO 300 GR","PZ",8,0.300,6.46));
 		articoli.add(new Articoli("057549001","FINDUS CROCCOLE 400 GR","PZ",12,0.400,5.97));
 		articoli.add(new Articoli("002000301","ACQUA ULIVETO 15 LT","PZ",6,1.5,0.87));
+		articoli.add(new Articoli("002000344","ACQUA SAN GEMINI 15 LT","PZ",6,1.5,0.87));
 
 		return articoli;
 	}
