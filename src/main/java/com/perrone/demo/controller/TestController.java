@@ -32,6 +32,8 @@ public class TestController
 		articoli.add(new Articoli("057549001","FINDUS CROCCOLE 400 GR","PZ",12,0.400,5.97));
 		articoli.add(new Articoli("002000301","ACQUA ULIVETO 15 LT","PZ",6,1.5,0.87));
 		articoli.add(new Articoli("002000344","ACQUA SAN GEMINI 15 LT","PZ",6,1.5,0.87));
+		articoli.add(new Articoli("014670789","DE CECCO SPAGHETTI PASTA 1 KG","PZ",24,1.0,1.09));
+		articoli.add(new Articoli("014604116","DE CECCO BUCATINI GR.500","PZ",24,1.0,1.09));
 
 		return articoli;
 	}
